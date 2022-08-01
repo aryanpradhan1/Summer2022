@@ -2,10 +2,13 @@ package com.topic23;
 
 
 /**
- * Write a description of class QuotientPower here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Name: Aryan Pradhan
+ * Date: 08/01/2022
+ * Program Title: QuotientPower
+ * Program description: Reads 2 numbers into 2 different variables and prints:
+ * 1. the sum of their quotient and remainder
+ * 2. The first number to the power of the second number
+ * Variable List: a, b
  */
 
 import java.util.Scanner;

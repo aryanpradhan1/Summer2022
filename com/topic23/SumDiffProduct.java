@@ -2,10 +2,11 @@ package com.topic23;
 
 
 /**
- * Write a description of class SumDiffProduct here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Name: Aryan Pradhan
+ * Date: 08/01/2022
+ * Program Title: SumDiffProduct
+ * Program description: Reads 2 numbers into 2 different variables and prints their sum, difference, and product
+ * Variable List: a, b
  */
 
 import java.util.Scanner;

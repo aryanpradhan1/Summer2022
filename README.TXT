@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+NAME: Aryan Pradhan
+DATE: 08/02/2022
+DESCRIPTION: The 5 folders in this branch under com are the 5 programs assigned over the summer for AP Computer Science. These projects are 2.2, 2.3, 2.4, 2.7, and 2.8
+---------------------------------------------------------------------------------------------------------------------------------------------------------

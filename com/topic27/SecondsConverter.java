@@ -2,10 +2,11 @@ package com.topic27;
 
 
 /**
- * Write a description of class SecondsConverter here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Name: Aryan Pradhan
+ * Date: 08/01/2022
+ * Program Title: SecondsConverter
+ * Program description: Reads a certain number of seconds and converts it into Hours, Minutes, and Seconds
+ * Variable List: seconds, minutes, remainingSeconds, remainingMinutes
  */
 
 import java.util.Scanner;

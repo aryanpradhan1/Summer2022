@@ -2,10 +2,11 @@ package com.topic28;
 
 
 /**
- * Write a description of class Distance here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Name: Aryan Pradhan
+ * Date: 08/02/2022
+ * Program Title: Distance
+ * Program description: Reads coordinates for 2 points, calculates the distance between them, and prints it out
+ * Variable List: x1, y1, x2, y2, distance
  */
 
 import java.util.Scanner;
